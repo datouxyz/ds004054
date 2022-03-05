@@ -1,0 +1,71 @@
+{
+  "Name": "Relative OGI from PET-MRI Outputs",
+  "BIDSVersion": "1.7.0",
+  "DatasetType": "derivative",
+  "License": "",
+  "Authors": [
+	"Miao Zhang",
+	"Qikai Qin (秦琪凯)",
+	"Shuning Zhang",
+	"Wei Liu",
+	"Hongping Meng",
+	"Mengyang Xu",
+	"Xinyun Huang",
+	"Xiaozhu Lin",
+	"Mu Lin",
+	"Peter Herman",
+	"Fahmeed Hyder",
+	"Raymond C. Stevens",
+	"Zheng Wang",
+	"Biao Li",
+	"Garth J. Thompson"
+  ],
+  "Acknowledgements": "We would like to thank Xingyu Zhou (Vanderbilt University) and Weiyan Chen (SINH, CAS) for helpful discussion; and Zheyu Jin (ShanghaiTech University) for data verification.",
+  "HowToAcknowledge": "Will be updated soon",
+  "Funding": [
+    "ShanghaiTech University Funding",
+    "National Natural Science Foundation of China Grant 81950410637",
+	"Shanghai Municipal Key Clinical Specialty shslczdzk03403"
+  ],
+  "EthicsApprovals": [
+    "The study was conducted in accordance with the Helsinki Protocol, and was approved by the Ethics Committee of ShanghaiTech University (IRB#2021-002) and the Ethics Committee of Shanghai Ruijin Hospital, Shanghai Jiao Tong University School of Medicine (No. 2016-123). For all included participants, written informed consent was provided.)"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    ""
+  ],
+  "DatasetDOI": "",
+  "HEDVersion": "",
+  "GeneratedBy": [
+    {
+      "Name": "MATLAB",
+      "Version": "2020b",
+      "Container": {
+        "Type": "",
+        "Tag": ""
+      }
+    },
+	{
+      "Name": "SPM12",
+      "Version": "v7771",
+      "Container": {
+        "Type": "",
+        "Tag": ""
+      }
+    },
+	{
+      "Name": "BioImage Suite Web Commandline",
+      "Version": "1.0.0",
+      "Container": {
+        "Type": "",
+        "Tag": ""
+      }
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "",
+      "Version": ""
+    }
+  ]
+}
